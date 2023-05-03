@@ -4,7 +4,7 @@ cffi==1.13.2
 Click==7.0
 cryptography==2.8
 docutils==0.15.2
-Flask==1.1.1
+Flask==2.2.5
 itsdangerous==1.1.0
 Jinja2==2.11.1
 jmespath==0.9.4
